@@ -5,7 +5,7 @@ import java.util.List;
 
 import static java.util.stream.Collectors.*;
 
-public class aBitOfConcurrency {
+public class BitOfConcurrency {
 
     public static void main(String[] args) {
         final List<Integer> list = Arrays.asList(1, 2, 3, 4, 5);
